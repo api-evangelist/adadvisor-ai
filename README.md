@@ -66,7 +66,7 @@
 
 AdAdvisor is an AI‑powered command center for paid media that automates media buying, campaign management, and creative generation across Meta, Google, TikTok, Snap and other major ad platforms. The platform combines data engineering, machine learning models, and a unified dashboard to help advertisers scale spend, improve ROAS, and reduce manual workload. Founded by a digital‑marketing agency team, AdAdvisor offers a 7‑day free trial and tools such as calculators, generators, and a Nova AI buyer that runs ad accounts autonomously.
 
-**Areas:** Company · AI · Advertising · MediaBuying · MarketingAutomation · SaaS
+**Areas:** Company · Artificial Intelligence · Advertising · Media Buying · Marketing Automation · Software-as-a-Service
 
 ## AdAdvisor on APIs.io
 
@@ -84,13 +84,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adadvisor Ai Domain Security](https://apis.io/security/adadvisor-ai/adadvisor-ai-domain-security/)
+- [AdAdvisor Domain Security](https://apis.io/security/adadvisor-ai/adadvisor-ai-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adadvisor Ai Plans Pricing](https://apis.io/plans/adadvisor-ai/adadvisor-ai-plans-pricing/)
+- [AdAdvisor Plans Pricing](https://apis.io/plans/adadvisor-ai/adadvisor-ai-plans-pricing/)
 
 ## Where to find this API
 
@@ -107,25 +107,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 23.5** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 24.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 64.3 |
+| Discoverability | 71.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 60.0 |
+| Access clarity | 66.0 |
 
-**Agent readiness 9.6** — agent-aware
+**Agent readiness 7.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -143,8 +143,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adadvisor-ai/](https://apis.io/providers/adadvisor-ai/).
 
